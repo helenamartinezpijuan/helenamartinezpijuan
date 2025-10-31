@@ -2,6 +2,10 @@
 
 **Game Developer & UX Designer | Security Researcher | Software Engineer**
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=500&height=60&lines=Security+Researcher;Game+Developer;UX+Designer;Software+Engineer" alt="Animated typing text showing roles" />
+</p>
+
 ---
 
 ## 👋 About Me
