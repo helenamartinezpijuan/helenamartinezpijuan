@@ -24,7 +24,7 @@ I also maintain a secondary GitHub account, **[guildedCucumber](https://github.c
       <strong>🛡️ Cybersecurity</strong>
     </td>
     <td style="background-color: #fffde7; padding: 15px; border-radius: 8px;">
-      Kali Linux, Bash, Network Security, Vulnerability Analysis, Threat Modeling, Secure Coding Practices, Cryptography Fundamentals
+      Kali Linux, Network Security, Vulnerability Analysis, Threat Modeling, Secure Coding Practices, Cryptography Fundamentals
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@ I also maintain a secondary GitHub account, **[guildedCucumber](https://github.c
       <strong>🎮 Game Dev</strong>
     </td>
     <td style="background-color: #fffde7; padding: 15px; border-radius: 8px;">
-      C# & C++, Unity (UI Toolkit, Canvas), Gameplay Programming, Systems Design, Visual Scripting, AI Behavior
+      C# & C++, Unity (UI Toolkit, Canvas), Gameplay Programming, Systems Design, Visual Scripting
     </td>
   </tr>
   <tr>
