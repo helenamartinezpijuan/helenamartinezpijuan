@@ -10,18 +10,61 @@ I am a passionate and versatile technologist with a core focus in **game program
 
 In game development, my passion extends beyond programming to the **architecture of player interaction**. I specialize in **Game UX/UI Design**, focusing on creating clean, intuitive interfaces, logical control schemes, and feedback systems that feel seamless and empower the player. I believe a well-designed interface is the silent narrator of a game's experience.
 
-I also maintain a secondary GitHub account, **[guildedCucumber](https://github.com/guildedCucumber)**, for experimental projects, game jams, and research prototypes.
+I also maintain a secondary GitHub account, **[guildedCucumber](https://github.com/guildedCucumber)**, for academic projects and research prototypes.
 
 ## 🛠️ Technical Proficiencies
 
-| Domain | Technologies & Skills |
-| :--- | :--- |
-| **🛡️ Cybersecurity** | Kali Linux, Network Security, Vulnerability Analysis, Threat Modeling, Secure Coding Practices, Cryptography Fundamentals |
-| **🎮 Game Development and Design** | C# & C++, Unity (UI Toolkit, Canvas), Gameplay Programming, Systems Design, Visual Scripting, AI Behavior |
-| **🎨 Game UX/UI Design** | Player Flow Design, Wireframing, Interaction Design, Usability Principles, HUD Design, Iconography |
-| **💻 Software Engineering** | Java, Data Structures & Algorithms, Object-Oriented Design |
-| **🌐 Web Development** | HTML5, CSS3, Node.js, Express.js (Secondary Interest) |
-| **🔧 Tools & Platforms** | Git, Docker, Visual Studio, VS Code, VMware |
+<table>
+  <tr>
+    <td width="180" align="center" style="background-color: #fff9c4; padding: 10px; border-radius: 8px;">
+      <strong>🛡️ Cybersecurity</strong>
+    </td>
+    <td style="background-color: #fffde7; padding: 15px; border-radius: 8px;">
+      Kali Linux, Bash, Network Security, Vulnerability Analysis, Threat Modeling, Secure Coding Practices, Cryptography Fundamentals
+    </td>
+  </tr>
+  <tr>
+    <td width="180" align="center" style="background-color: #fff9c4; padding: 10px; border-radius: 8px;">
+      <strong>🎮 Game Dev</strong>
+    </td>
+    <td style="background-color: #fffde7; padding: 15px; border-radius: 8px;">
+      C# & C++, Unity (UI Toolkit, Canvas), Gameplay Programming, Systems Design, Visual Scripting, AI Behavior
+    </td>
+  </tr>
+  <tr>
+    <td width="180" align="center" style="background-color: #fff9c4; padding: 10px; border-radius: 8px;">
+      <strong>🎨 Game UX/UI</strong>
+    </td>
+    <td style="background-color: #fffde7; padding: 15px; border-radius: 8px;">
+      Player Flow Design, Wireframing, Interaction Design, Usability Principles, HUD Design, Iconography
+    </td>
+  </tr>
+  <tr>
+    <td width="180" align="center" style="background-color: #fff9c4; padding: 10px; border-radius: 8px;">
+      <strong>💻 Engineering</strong>
+    </td>
+    <td style="background-color: #fffde7; padding: 15px; border-radius: 8px;">
+      Java, Data Structures & Algorithms, Object-Oriented Design
+    </td>
+  </tr>
+  <tr>
+    <td width="180" align="center" style="background-color: #fff9c4; padding: 10px; border-radius: 8px;">
+      <strong>🌐 Web Dev</strong>
+    </td>
+    <td style="background-color: #fffde7; padding: 15px; border-radius: 8px;">
+      HTML5, CSS3, Node.js <em>(Secondary Interest)</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="180" align="center" style="background-color: #fff9c4; padding: 10px; border-radius: 8px;">
+      <strong>🔧 Tools</strong>
+    </td>
+    <td style="background-color: #fffde7; padding: 15px; border-radius: 8px;">
+      <strong>VS Code</strong> (Primary IDE), Git, Docker, Visual Studio, VMware
+    </td>
+  </tr>
+</table>
+
 
 ## 🚀 Featured Projects
 
@@ -37,20 +80,9 @@ I also maintain a secondary GitHub account, **[guildedCucumber](https://github.c
 
 *(For more projects, including game jam entries and web development experiments, please visit my other profile: **[guildedCucumber](https://github.com/guildedCucumber)`*`)*
 
-*   **[Arcane Forge](https://github.com/guildedCucumber/arcane-forge)** | `C#` `Unity` `Shader Graph`
-    A 2D puzzle-platformer with a dynamic spell-crafting system, showcasing custom shaders for visual effects.
+*   **[The T.R.I.P. (In Development)](https://github.com/guildedCucumber/the-trip)** | `C#` `Unity`
+    A narrative-driven text-based adventure game currently in active development. The project focuses on complex branching dialogue systems, immersive world-building, and a unique psychological thriller narrative, built with a custom toolset in Unity.
 
-*   **[CryptoVault CLI](https://github.com/guildedCucumber/cryptovault-cli)** | `Python` `Cryptography`
-    A command-line tool for file encryption and decryption, implementing AES for a hands-on understanding of cryptographic principles.
-
-## 📈 GitHub Stats & Overview
-
-<p align="center">
-  <a href="https://github.com/helenamartinezpijuan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helenamartinezpijuan&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenamartinezpijuan&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-  </a>
-</p>
 
 ## 📫 Let's Connect
 
@@ -62,4 +94,4 @@ I am always open to discussing exciting opportunities in game development, cyber
 
 ---
 
-> *"Always trying to do better"*
+> *"Always trying to be better"*
