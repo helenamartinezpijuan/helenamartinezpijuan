@@ -1,55 +1,65 @@
-<h1 align="center">Hi, I'm Helena Martínez Pijuan 👋</h1>
-<h3 align="center">A Passionate Developer & Security Enthusiast</h3>
+# Helena Martínez Pijuan
+
+**Game Developer & UX Designer | Security Researcher | Software Engineer**
+
+---
+
+## 👋 About Me
+
+I am a passionate and versatile technologist with a core focus in **game programming & design** and a strong affinity for my recently-found passion, **cybersecurity**. I thrive at the intersection of complex systems, creative problem-solving, and building secure, efficient software. My work spans from analyzing vulnerabilities and understanding attack vectors to architecting and developing interactive experiences.
+
+In game development, my passion extends beyond programming to the **architecture of player interaction**. I specialize in **Game UX/UI Design**, focusing on creating clean, intuitive interfaces, logical control schemes, and feedback systems that feel seamless and empower the player. I believe a well-designed interface is the silent narrator of a game's experience.
+
+I also maintain a secondary GitHub account, **[guildedCucumber](https://github.com/guildedCucumber)**, for experimental projects, game jams, and research prototypes.
+
+## 🛠️ Technical Proficiencies
+
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **🛡️ Cybersecurity** | Kali Linux, Network Security, Vulnerability Analysis, Threat Modeling, Secure Coding Practices, Cryptography Fundamentals |
+| **🎮 Game Development and Design** | C# & C++, Unity (UI Toolkit, Canvas), Gameplay Programming, Systems Design, Visual Scripting, AI Behavior |
+| **🎨 Game UX/UI Design** | Player Flow Design, Wireframing, Interaction Design, Usability Principles, HUD Design, Iconography |
+| **💻 Software Engineering** | Java, Data Structures & Algorithms, Object-Oriented Design |
+| **🌐 Web Development** | HTML5, CSS3, Node.js, Express.js (Secondary Interest) |
+| **🔧 Tools & Platforms** | Git, Docker, Visual Studio, VS Code, VMware |
+
+## 🚀 Featured Projects
+
+### **Primary Focus (Game Dev & Cybersecurity):**
+
+*   **[Master's Thesis: Accessibility in Design](https://github.com/helenamartinezpijuan/masters-thesis-accessibility)** | `C#` `Unity`
+    An educational 2D platformer designed to simulate and create empathy for the challenges faced by players with disabilities. This research-driven project implements various interaction modes to showcase barriers in traditional game design and proposes UX-centric solutions for a more inclusive gaming experience.
+
+*   **[VPN Monitor & Analyzer](https://github.com/helenamartinezpijuan/vpn-monitor)** | `Bash` `Kali Linux`
+    A robust Bash script developed in a Kali Linux environment to monitor, manage, and perform basic security analysis on VPN connections. The tool provides real-time status updates, connection diagnostics, and checks for potential IP/DNS leaks, emphasizing practical network security and automation.
+
+### **Secondary & Experimental Work:**
+
+*(For more projects, including game jam entries and web development experiments, please visit my other profile: **[guildedCucumber](https://github.com/guildedCucumber)`*`)*
+
+*   **[Arcane Forge](https://github.com/guildedCucumber/arcane-forge)** | `C#` `Unity` `Shader Graph`
+    A 2D puzzle-platformer with a dynamic spell-crafting system, showcasing custom shaders for visual effects.
+
+*   **[CryptoVault CLI](https://github.com/guildedCucumber/cryptovault-cli)** | `Python` `Cryptography`
+    A command-line tool for file encryption and decryption, implementing AES for a hands-on understanding of cryptographic principles.
+
+## 📈 GitHub Stats & Overview
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Game+Programmer;Cybersecurity+Researcher" alt="Typing SVG" /></a>
+  <a href="https://github.com/helenamartinezpijuan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helenamartinezpijuan&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenamartinezpijuan&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+  </a>
 </p>
 
----
+## 📫 Let's Connect
 
-### 🛠️ My Tech & Tools Landscape
+I am always open to discussing exciting opportunities in game development, cybersecurity, or innovative software projects.
 
-I thrive at the intersection of creativity and security, building robust applications and exploring immersive digital worlds.
-
-*   **🌐 Web Development:** `JavaScript` `HTML5` `CSS3` `React` `Node.js`
-*   **🎮 Game Dev & Design:** `C#` `Unity` `Blender` `Aseprite` (Game Design Principles)
-*   **🛡️ Cybersecurity:** `Kali Linux` `Wireshark` `Metasploit` `Python` (Ethical Hacking, Network Security)
-*   **💻 Other Languages:** `Python` `Java` `C++`
-*   **🔧 Tools & Platforms:** `Git` `VS Code` `Figma` `Postman`
+*   **Professional Profile:** [LinkedIn](https://es.linkedin.com/in/helena-m-pijuan1997)
+*   **Portfolio:** [your-portfolio.com](https://www.your-portfolio.com) *(Optional - Replace with your link)*
+*   **Email:** helena.martinez.p97@gmail.com
 
 ---
 
-### 🚀 What I'm Currently Exploring
-
-*   Deepening my knowledge in **Offensive Security** and preparing for certifications like eJPT.
-*   Developing a **cybersecurity-themed puzzle game** in Unity to merge my two biggest passions.
-*   Building full-stack applications with a focus on **secure coding practices**.
-
----
-
-### 📈 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helenamartinezpijuan&show_icons=true&theme=radical" alt="Helena's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenamartinezpijuan&theme=radical" alt="Helena's GitHub Streak" height="165"/>
-</p>
-
----
-
-### 📫 Let's Connect & Collaborate!
-
-I'm always open to discussing technology, new projects, or potential collaborations.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helenamartinezpijuan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=helenamartinezpijuan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center"> 
-  <i>"Code is like humor. When you have to explain it, it’s bad." - Cory House</i>
-</p>
+> *"Always trying to do better"*
