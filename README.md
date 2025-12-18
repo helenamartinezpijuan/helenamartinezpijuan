@@ -93,9 +93,9 @@ I also maintain a secondary GitHub account, **[guildedCucumber](https://github.c
 I am always open to discussing exciting opportunities in game development, cybersecurity, or innovative software projects.
 
 *   **Professional Profile:** [LinkedIn](https://es.linkedin.com/in/helena-m-pijuan1997)
-*   **Portfolio:** [your-portfolio.com](https://www.your-portfolio.com) *(Optional - Replace with your link)*
+*   **Portfolio:** [your-portfolio.com](https://www.your-portfolio.com) *(Pending Replace with correct link)*
 *   **Email:** helena.martinez.p97@gmail.com
 
 ---
 
-> *"Always trying to be better"*
+> *"Always trying to do better"*
