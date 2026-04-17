@@ -74,7 +74,7 @@ I also maintain a secondary GitHub account, **[guildedCucumber](https://github.c
 
 ### **Primary Focus (Game Dev & Cybersecurity):**
 
-*   **[Master's Thesis: Accessibility in Design](https://github.com/helenamartinezpijuan/masters-thesis-accessibility)** | `C#` `Unity`
+*   **[Master's Thesis: Accessibility in Design](https://github.com/helenamartinezpijuan/TFM_AccessibilityPlatformer)** | `C#` `Unity`
     An educational 2D platformer designed to simulate and create empathy for the challenges faced by players with disabilities. This research-driven project implements various interaction modes to showcase barriers in traditional game design and proposes UX-centric solutions for a more inclusive gaming experience.
 
 *   **[VPN Monitor & Analyzer](https://github.com/helenamartinezpijuan/vpn-monitor)** | `Bash` `Kali Linux`
@@ -83,6 +83,9 @@ I also maintain a secondary GitHub account, **[guildedCucumber](https://github.c
 ### **Secondary & Experimental Work:**
 
 *(For more projects, including game jam entries and web development experiments, please visit my other profile: **[guildedCucumber](https://github.com/guildedCucumber)`*`)*
+
+*   **[Building a website from scratch: Recetario de Hyrule](https://github.com/helenamartinezpijuan/recetario-hyrule)** | `HTML5` `CSS3` `PHP` `JQuery` `Ajax` `InfinityFree hosting`
+    A website created from scratch. I designed my own database with hundreds of recipes and ingredients found in the fictional world of Hyrule from The Legend of Zelda: Breath of the Wild (2017, Nintendo) with the aim of offering a fast and easy way to look up combinations online for players.
 
 *   **[The T.R.I.P. (In Development)](no link available yet)** | `C#` `Unity`
     A narrative-driven text-based adventure game currently in active development. The project focuses on complex branching dialogue systems, immersive world-building, and a unique psychological thriller narrative, built with a custom toolset in Unity.
