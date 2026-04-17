@@ -53,10 +53,10 @@ I also maintain a secondary GitHub account, **[guildedCucumber](https://github.c
   </tr>
   <tr>
     <td width="180" align="center" style="background-color: #fff9c4; padding: 10px; border-radius: 8px;">
-      <strong>🌐 Web Dev</strong>
+      <strong>🌐 Full Stack Dev</strong>
     </td>
     <td style="background-color: #fffde7; padding: 15px; border-radius: 8px;">
-      HTML5, CSS3, Node.js <em>(Secondary Interest)</em>
+      HTML5, CSS3, JavaScript, JQuery, PHP, MySql
     </td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ I also maintain a secondary GitHub account, **[guildedCucumber](https://github.c
 
 *(For more projects, including game jam entries and web development experiments, please visit my other profile: **[guildedCucumber](https://github.com/guildedCucumber)`*`)*
 
-*   **[The T.R.I.P. (In Development)](https://github.com/guildedCucumber/the-trip)** | `C#` `Unity`
+*   **[The T.R.I.P. (In Development)](no link available yet)** | `C#` `Unity`
     A narrative-driven text-based adventure game currently in active development. The project focuses on complex branching dialogue systems, immersive world-building, and a unique psychological thriller narrative, built with a custom toolset in Unity.
 
 
@@ -93,8 +93,7 @@ I also maintain a secondary GitHub account, **[guildedCucumber](https://github.c
 I am always open to discussing exciting opportunities in game development, cybersecurity, or innovative software projects.
 
 *   **Professional Profile:** [LinkedIn](https://es.linkedin.com/in/helena-m-pijuan1997)
-*   **Portfolio:** [your-portfolio.com](https://www.your-portfolio.com) *(Pending Replace with correct link)*
-*   **Email:** helena.martinez.p97@gmail.com
+*   **Email:** helenamartinezpijuan@gmail.com
 
 ---
 
